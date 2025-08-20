@@ -1,0 +1,2 @@
+# ai-powered-multilingual-learning
+Transform any PDF training material into a multilingual AI assistant that learners can query in their native language. Built with RAG architecture, this system automatically detects user language, translates queries for search, and returns contextually accurate responses in the original language. Designed for global education equity - from a $247 computer to enterprise-scale deployment.
